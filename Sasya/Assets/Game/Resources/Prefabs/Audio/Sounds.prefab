@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &916827299736288731
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 916827299736288725}
+  - component: {fileID: 916827299736288730}
+  - component: {fileID: 1415548248}
+  m_Layer: 0
+  m_Name: Sounds
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &916827299736288725
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 916827299736288731}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -14.186909, y: -17.18174, z: -6.1482697}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &916827299736288730
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 916827299736288731}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3445d295fcfcfc84ab564721ee43a09f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sounds:
+  - audioType: 0
+    name: PlayerShoot
+    loop: 0
+    clip: {fileID: 8300000, guid: c7ce3c5f3fc75dd4fa78d12e021506a9, type: 3}
+    volume: 0.5
+    pitch: 1
+    source: {fileID: 0}
+  - audioType: 0
+    name: PlayerGettingHurt
+    loop: 0
+    clip: {fileID: 8300000, guid: 653ab404522e6114b8173bc0536c4149, type: 3}
+    volume: 1
+    pitch: 1
+    source: {fileID: 0}
+  - audioType: 1
+    name: Environment
+    loop: 1
+    clip: {fileID: 8300000, guid: 810be12d3ea76e1488c0184b08947f87, type: 3}
+    volume: 0.1
+    pitch: 1
+    source: {fileID: 0}
+  - audioType: 0
+    name: PlayerDeath
+    loop: 0
+    clip: {fileID: 8300000, guid: 84a8c2212713a2c4fb61bc4774cf20dc, type: 3}
+    volume: 0.4
+    pitch: 0.5
+    source: {fileID: 0}
+  - audioType: 0
+    name: BulletExplosion
+    loop: 0
+    clip: {fileID: 8300000, guid: 82d119d4d22f4e44ab166678c4c8d8aa, type: 3}
+    volume: 0.5
+    pitch: 1
+    source: {fileID: 0}
+  - audioType: 0
+    name: BossGettingHurt
+    loop: 0
+    clip: {fileID: 8300000, guid: 653ab404522e6114b8173bc0536c4149, type: 3}
+    volume: 1
+    pitch: 0.3
+    source: {fileID: 0}
+  - audioType: 0
+    name: BossTransformation
+    loop: 0
+    clip: {fileID: 8300000, guid: 6948f9303c7c4ff4180b04d8ed59794e, type: 3}
+    volume: 0.4
+    pitch: 0.8
+    source: {fileID: 0}
+  - audioType: 0
+    name: BossShoot
+    loop: 1
+    clip: {fileID: 8300000, guid: 6948f9303c7c4ff4180b04d8ed59794e, type: 3}
+    volume: 0.45
+    pitch: 0.4
+    source: {fileID: 0}
+  musicMixerGroup: {fileID: -5069619199055927253, guid: e9daece3a443c0247977de104cb56545, type: 2}
+  soundEffectsMixerGroup: {fileID: 1340760145986016352, guid: e9daece3a443c0247977de104cb56545, type: 2}
+--- !u!114 &1415548248
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 916827299736288731}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2280f93f7a00ba0409535738a039bb7b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  audio: {fileID: 916827299736288730}

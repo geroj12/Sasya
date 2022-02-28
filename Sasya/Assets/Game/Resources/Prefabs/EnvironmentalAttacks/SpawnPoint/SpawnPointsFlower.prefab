@@ -1,0 +1,299 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4429991423985557466
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4429991423985557465}
+  m_Layer: 0
+  m_Name: 1 (7)
+  m_TagString: SpawnPointsFlower
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4429991423985557465
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4429991423985557466}
+  m_LocalRotation: {x: -0, y: -0.42352083, z: -0, w: 0.9058864}
+  m_LocalPosition: {x: 57.1, y: 0, z: -14}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4429991424789281078}
+  m_RootOrder: 7
+  m_LocalEulerAnglesHint: {x: 0, y: -50.114, z: 0}
+--- !u!1 &4429991424004913167
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4429991424004913166}
+  m_Layer: 0
+  m_Name: 1 (3)
+  m_TagString: SpawnPointsFlower
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4429991424004913166
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4429991424004913167}
+  m_LocalRotation: {x: -0, y: 0.62729126, z: -0, w: 0.7787848}
+  m_LocalPosition: {x: -62.9, y: 0, z: 15.8}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4429991424789281078}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 0, y: 77.701, z: 0}
+--- !u!1 &4429991424152730338
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4429991424152730337}
+  m_Layer: 0
+  m_Name: 1
+  m_TagString: SpawnPointsFlower
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4429991424152730337
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4429991424152730338}
+  m_LocalRotation: {x: -0, y: -0.18881622, z: -0, w: 0.98201245}
+  m_LocalPosition: {x: 35.2, y: 0, z: -57.3}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4429991424789281078}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: -21.767, z: 0}
+--- !u!1 &4429991424183933476
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4429991424183933475}
+  m_Layer: 0
+  m_Name: 1 (2)
+  m_TagString: SpawnPointsFlower
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4429991424183933475
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4429991424183933476}
+  m_LocalRotation: {x: -0, y: 0.4109637, z: -0, w: 0.91165173}
+  m_LocalPosition: {x: -56.4, y: 0, z: -33.4}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4429991424789281078}
+  m_RootOrder: 2
+  m_LocalEulerAnglesHint: {x: 0, y: 48.531, z: 0}
+--- !u!1 &4429991424773211196
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4429991424773211195}
+  m_Layer: 0
+  m_Name: 1 (1)
+  m_TagString: SpawnPointsFlower
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4429991424773211195
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4429991424773211196}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -16.5, y: 0, z: -63.1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4429991424789281078}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4429991424789281079
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4429991424789281078}
+  - component: {fileID: 4429991424789281077}
+  m_Layer: 0
+  m_Name: SpawnPointsFlower
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 0
+--- !u!4 &4429991424789281078
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4429991424789281079}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -0.06666668, y: 0.42266667, z: -32.433334}
+  m_LocalScale: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
+  m_Children:
+  - {fileID: 4429991424152730337}
+  - {fileID: 4429991424773211195}
+  - {fileID: 4429991424183933475}
+  - {fileID: 4429991424004913166}
+  - {fileID: 4429991424866351276}
+  - {fileID: 4429991425351650812}
+  - {fileID: 4429991425124501101}
+  - {fileID: 4429991423985557465}
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4429991424789281077
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4429991424789281079}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbc38f23427671a4cb80543c9ac794c5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spawnPointTag: SpawnPointsFlower
+  alwaysSpawn: 0
+  prefabsToSpawn:
+  - {fileID: 2089162309279259556, guid: 5544103c41b323f40a13a74a804904cb, type: 3}
+  - {fileID: 2089162309279259556, guid: 3e318084438bd3d40bce8fe867354679, type: 3}
+  - {fileID: 2089162309279259556, guid: dd3709a4dee87214a9f2e24bd201f74d, type: 3}
+--- !u!1 &4429991424866351277
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4429991424866351276}
+  m_Layer: 0
+  m_Name: 1 (4)
+  m_TagString: SpawnPointsFlower
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4429991424866351276
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4429991424866351277}
+  m_LocalRotation: {x: -0, y: 0.75716716, z: -0, w: 0.65322125}
+  m_LocalPosition: {x: -34.2, y: 0, z: 56.4}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4429991424789281078}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 98.43, z: 0}
+--- !u!1 &4429991425124501102
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4429991425124501101}
+  m_Layer: 0
+  m_Name: 1 (6)
+  m_TagString: SpawnPointsFlower
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4429991425124501101
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4429991425124501102}
+  m_LocalRotation: {x: -0, y: -0.8298008, z: -0, w: 0.5580597}
+  m_LocalPosition: {x: 56.6, y: 0, z: 35.1}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4429991424789281078}
+  m_RootOrder: 6
+  m_LocalEulerAnglesHint: {x: 0, y: -112.157, z: 0}
+--- !u!1 &4429991425351650813
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4429991425351650812}
+  m_Layer: 0
+  m_Name: 1 (5)
+  m_TagString: SpawnPointsFlower
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4429991425351650812
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4429991425351650813}
+  m_LocalRotation: {x: -0, y: 0.6196262, z: -0, w: 0.7848971}
+  m_LocalPosition: {x: 15.3, y: 0, z: 64.8}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4429991424789281078}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 76.578, z: 0}
