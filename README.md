@@ -1,6 +1,8 @@
 # Sasya
 ### Second-semester-project at S4G
 
+<img src="https://github.com/geroj12/Sasya/issues/1#issue-1199716137" />
+
 #### Description:
 > Sasya is a short bullet-hell-shooter made by students of the S4G School for Games.
 Help Icto, a small nature spirit, free their folk from a prison tower.
