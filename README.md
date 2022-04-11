@@ -26,8 +26,7 @@ cloesly in order to win this challenging boss fight.
 > [https://unity.com/de]
 
 # Scripts
-> [Movement](https://github.com/geroj12/Moku/blob/53153e46e20fd378137e229a25994a0f2aa12d07/S4GDrittsemesterProjektGROK/Assets/Scripts/Player/PlayerMovement.cs)
-> [Parallax](https://github.com/geroj12/Moku/blob/c1ee2bce1ece64ebca26e8a5c18117e90407e43c/S4GDrittsemesterProjektGROK/Assets/ParallaxLayer.cs)
+> [Player](https://github.com/geroj12/Sasya/blob/6ea0fc9df4980c332f213d72d4751211fd950012/Sasya/Assets/Game/Scripts/Player/Controller/Player/Player.cs)
 
 # Homepage/Itch.io
 > - [Homepage](https://sasya.school4games.net/)
