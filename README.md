@@ -1,7 +1,7 @@
 # Sasya
 ### Second-semester-project at S4G
 
-<img src="https://github.com/geroj12/Sasya/issues/1#issue-1199716137" />
+<img src="https://user-images.githubusercontent.com/73071252/162714607-4caea9b5-469a-4a68-b59c-277191b8c04c.png" />
 
 #### Description:
 > Sasya is a short bullet-hell-shooter made by students of the S4G School for Games.
